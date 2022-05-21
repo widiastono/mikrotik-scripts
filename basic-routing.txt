@@ -2,4 +2,5 @@ Basic Routing di MikroTik:
 - Setting Device Name
 - Setting interface name 
 - Setting IP Address WAN-LAN dan Gateway
-- Setting DNS name Server untuk Router
+- Setting DNS name Server
+- Setting Firewall dan Masquerade
